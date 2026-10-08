@@ -1,0 +1,20 @@
+MIS FINANZAS en iPhone (app web instalable)
+
+1) Sube el CONTENIDO de esta carpeta a un hosting con HTTPS. Opciones gratuitas:
+   - Netlify (arrastrar y soltar la carpeta): https://app.netlify.com/drop
+   - GitHub Pages o Cloudflare Pages.
+   Obtendras una direccion https://...
+2) En el iPhone abre esa direccion con SAFARI (no con otro navegador).
+3) Toca el boton Compartir (cuadrado con flecha) > "Anadir a pantalla de inicio" > Anadir.
+4) Abre la app desde el icono nuevo. Funciona sin internet despues de la primera carga.
+
+PASAR TUS DATOS
+- En la app de Windows (o la web): pestana "Datos" > "Exportar datos". Guarda el archivo .json.
+- Envialo al iPhone (AirDrop, correo, iCloud...).
+- En el iPhone, abre la app instalada desde el icono > "Datos" > "Importar datos" > elige el archivo.
+IMPORTANTE: importa dentro de la app instalada. Safari y la app instalada guardan los datos por separado.
+
+NOTAS
+- Los datos viven solo en tu telefono. El hosting solo entrega el archivo de la app.
+- Para actualizar: sube la carpeta nueva al mismo hosting y abre la app con internet una vez.
+- Haz copias con "Exportar datos" de vez en cuando.
